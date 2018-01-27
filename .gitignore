@@ -34,11 +34,7 @@ bundled
 typings
 .typingsrc
 dist
-dts
-lib
 temp
-es
-amd
 
 type_definitions/inversify/*.js
 
